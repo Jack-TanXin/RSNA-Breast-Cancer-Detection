@@ -1,5 +1,10 @@
 # 纪念第一次参加Kaggle平台的竞赛并获得铜牌~
 
+## 比赛链接：
+
+>https://www.kaggle.com/competitions/rsna-breast-cancer-detection
+
+
 ## 1、运行step1_extract_raw_data.ipynb
 这个代码和开源代码
 
